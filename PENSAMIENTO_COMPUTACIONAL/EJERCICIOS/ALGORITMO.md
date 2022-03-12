@@ -27,3 +27,16 @@
 * Procedimiento (edad= fecha_actual-fecha_nacimiento)
 * Mostrar edad
 * Fin
+
+
+# DESARROLLA UN ALGORITMO QUE MUESTRE EL PROCESO DE LA ENTRADA AL METRO, METROBUS O RTP AL ESCANEAR LA TARJETA
+* Inicio
+* Declarar variables (saldo, costo)
+* Asignar valores (saldo, costo) numeros reales
+* Proceso (si saldo es >=a costo, se realiza una resta que actualiza mi variable costo y se abre la puerta;
+            pero si saldo es < que costo muestra el valor de saldo o el mensaje saldo insuficiente y no permite la entrada)
+* Fin
+
+
+# Solicitando un lado de un cuadrado realizar un algoritmo que imprima el perímetro de un cuadrado
+
