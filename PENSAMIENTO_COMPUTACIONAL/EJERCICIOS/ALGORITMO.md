@@ -39,4 +39,10 @@
 
 
 # Solicitando un lado de un cuadrado realizar un algoritmo que imprima el perímetro de un cuadrado
+* Inicio
+* Declarar  variables (lado, perimetro)
+* Asignar valres  (lado) numeros reales
+* Procedim (perimetro= lado x 4)
+* Mostrar perimetro
+* Fin
 
