@@ -23,7 +23,7 @@
 # DESARROLLA UN ALGORITMO QUE CALCULE LA EDAD DE UNA PERSONA CON BASE A LA OBTENCION DE SU FECHA DE NACIMIENTO.
 * Inicio
 * Declarar (fecha_nacimiento, fecha_actual, edad)
-* Asignar valores (fecha_nacimiento, fecha_actual, edad)
+* Asignar valores (fecha_nacimiento, fecha_actual)
 * Procedimiento (edad= fecha_actual-fecha_nacimiento)
 * Mostrar edad
 * Fin
@@ -45,4 +45,13 @@
 * Procedim (perimetro= lado x 4)
 * Mostrar perimetro
 * Fin
+* 
+#  Conociendo las 4 calificaciones de los perío de un alumno imprimir el promedio
+* Inicio
+* Declarar variables  (periodo_1, periodo_2, periodo_3, periodo_4, promedio)
+* Asignar valores (periodo_1, periodo_2, periodo_3, periodo_4) numeros reales
+* Procedimiento (promedio = (periodo_1+periodo_2+periodo_3+periodo_4)/4
+* Mostrar promedio
+* Fin
+
 
