@@ -1,25 +1,10 @@
-# ESTRUCTURAS DE CONTROL
-En programación, las estructuras de control permiten modificar el flujo de ejecución de las instrucciones de un programa.
+# RETOS
+## REALIZAR LOS SIGUIENTES RETOS CON SU ALGORITMO Y DIAGRAMA DE FLUJO CORRESPONDIENTE CADA UNO 
 
-Con las estructuras de control se puede:
-
-De acuerdo con una condición, ejecutar un grupo u otro de sentencias 
-
-De acuerdo con el valor de una variable, ejecutar un grupo u otro de sentencias 
-
-Ejecutar un grupo de sentencias mientras se cumpla una condición
-
-Ejecutar un grupo de sentencias hasta que se cumpla una condición
-
-Ejecutar un grupo de sentencias un número determinado de veces 
-
-Todos los lenguajes de programación modernos tienen estructuras de control similares. Básicamente lo que varía entre las estructuras de control de los diferentes lenguajes es su sintaxis; cada lenguaje tiene una sintaxis propia para expresar la estructura.
-
-## ESTRUCTURA SIMPLE
-La finalidad de utilizar la estructura condicional es tomar una decisión con base en el valor booleano de una expresión, es decir, determinar si la condición es verdadera o falsa.
-De acuerdo a su complejidad se clasifica en:
-
-* Simple. Donde la estructura ejecuta un bloque de instrucciones cuando la condición es verdadera, en caso contrario ignora ese bloque y continúa con la ejecución del
-resto de las instrucciones.
-* Compuesta. Evalúa una condición, si ésta es verdadera ejecuta el bloque de instrucciones más cercano, en caso contrario, realiza acciones alternativas.
-* Múltiple o según sea. Evalúa una condición y dependiendo de su valor booleano elige el bloque de instrucciones a ejecutar de entre varias opciones.
+* Programa que pida un número y diga si es positivo o negativo
+* Programa que solicite se ingrese una letra y sólo permita introducir los caracteres s y n.
+* Un programa que pida una letra y detecte si es una vocal. 
+* Programa que pida 3 números y los muestre en pantalla de menor a mayor.  
+* De un programa que pida un número del 1 al 12 y diga el nombre del mes correspondiente.
+* De un programa que permita al usuario elegir un candidato por el cual votar. Las posibilidades son: candidato A por el partido rojo, candidato B por el partido verde, candidato C por el partido azul. Según el candidato elegido (A, B ó C) se le debe imprimir el mensaje “Usted ha votado por el partido [color que corresponda al candidato elegido]”. Si el usuario ingresa una opción que no corresponde a ninguno de los candidatos disponibles, indicar “Opción errónea”.
+* Para un programa que almacene la cadena de caracteres para una contraseña y email, pregunte al usuario por la contraseña y email e imprima por pantalla si la contraseña y el email introducidos por el usuario coincide con los guardadados en las variables.
