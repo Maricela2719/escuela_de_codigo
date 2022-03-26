@@ -61,3 +61,4 @@
 * Proceso (SI(candidato=="A") ENTONCES imprimir("Usted ha votado por el partido rojo")SINO SI(candidato=="B") ENTONCES imprimir("Usted ha votado por el partido verde") SINO SI(candidato=="C") ENTONCES imprimir("Usted ha votado por el partido azul") SINO imprimir("Opción errónea")FINSI FINSI FINSI
 * Fin
 ### Para un programa que almacene la cadena de caracteres para una contraseña y email, pregunte al usuario por la contraseña y email e imprima por pantalla si la contraseña y el email introducidos por el usuario coincide con los guardadados en las variables.
+*
