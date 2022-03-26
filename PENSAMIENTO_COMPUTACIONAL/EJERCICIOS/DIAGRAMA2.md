@@ -15,8 +15,8 @@
 * Declarar (periodo_1, periodo_2, perio_3, periodo_4, promedio) float 
 * Solicitar 4 calificacion  "Ingresa las 4 calificaciones correspondiente al periodo 1, 2, 3 y 4"
 * Asignar (periodo_1, periodo_2, periodo_3, periodo_4)
-* Proceso (promedio = periodo_1 + periodo_2 + periodo_3 + periodo_4)/4) SI (promedio > =6) ENTONCES mostrar ("Tu promedio es ", promedio) SINO mostrar ("Tú promedio es repobatorio) FINSI
-* Fin
+* Proceso (promedio = periodo_1 + periodo_2 + periodo_3 + periodo_4)/4) SI (promedio > =6) ENTONCES mostrar ("Tu promedio es ", promedio) SINO mostrar ("Tú promedio es reprobatorio) FINSI
+*  Fin
 
 ![image](https://user-images.githubusercontent.com/101481188/160215457-654559c7-f263-401b-b05c-3a05382836fd.png)
 
@@ -29,7 +29,8 @@
 * Declarar (numero)  Int
 * Solicitar ingresar un número  "Ingresa un número"
 * Asignar  (numero)
-* Proceso ( SI (numero/2 = 0) ENTONCES mostrar ("El número  ", numero," es par") SINO mostrar  ("El número ",  numero," es impar"))FINSI
-* Fin
+*  Proceso ( SI (numero%2 == 0) ENTONCES mostrar ("El número ", numero," es par") SINO mostrar ("El número ", numero," es impar"))FINSI
+*  Fin
 
-![image](https://user-images.githubusercontent.com/101481188/160213288-34b710cd-fc27-4971-ab47-c88e14896e20.png)
+![image](https://user-images.githubusercontent.com/101481188/160220834-625104f3-9a66-4bf3-9569-7381daa8efce.png)
+
