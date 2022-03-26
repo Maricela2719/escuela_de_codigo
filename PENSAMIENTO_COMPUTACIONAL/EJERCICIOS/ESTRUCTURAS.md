@@ -6,9 +6,25 @@
 * Declarar (numero) float
 * Solicitar un número
 * Asignar (numero)
-* Proceso (Si numero es > 0, imprimir "Tú número es positivo") sino (Si numero es < 0, imprimir "Tú número es negativo) sino (Si numero es = 0, imprimir "Tú numero es cero)
-* Fin
+* Proceso (Si numero es > 0, ENTONCES imprimir ("El número ingresado es positivo") SINO (SI  numero <  0), ENTONCES imprimir ("El número ingresado es negativo")  SINO imprimir ("El número ingresado es cero") FINSI ) FINSI)
+* End
+
+
+![image](https://user-images.githubusercontent.com/101481188/160222558-d1f5b0b5-9def-44cb-a54b-0d6ee39eacf2.png)
+
+
+
 ### Programa que solicite se ingrese una letra y sólo permita introducir los caracteres s y n.
+* Inicio
+* Declarar (letra) char
+* Solicitar una letra  ("Ingresa solo una letra")
+* Asignar (letra)
+* Proceso (SI (letra=="s" OR letra=="n") ENTONCES  imprimir  ("es correcto") SINO imprimir ("No es correcto, solo las letras s   o    n") FINSI)
+* End
+
+![image](https://user-images.githubusercontent.com/101481188/160223402-3e554797-5764-453a-89cc-9b9e8c0222b1.png)
+
+
 ### Un programa que pida una letra y detecte si es una vocal. 
 ### Programa que pida 3 números y los muestre en pantalla de menor a mayor.  
 ### De un programa que pida un número del 1 al 12 y diga el nombre del mes correspondiente.
