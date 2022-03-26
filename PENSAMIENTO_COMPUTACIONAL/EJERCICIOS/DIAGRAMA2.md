@@ -6,7 +6,8 @@
 * Proceso SI(numero_1 > numero_2) ENTONCES mostrar(numero_1," es mayor que ", numero_2) SINO mostrar(numero_2, (" es mayor que ", numero_1) FINSI
 * Aleta
 
-![image](https://user-images.githubusercontent.com/101481188/160203845-2b10ce0d-9cfd-437f-b303-62aa9ff1c6b5.png)
+![image](https://user-images.githubusercontent.com/101481188/160221112-f9ae97c7-73c7-4717-9dff-a5975672c642.png)
+
 
 
 
@@ -18,7 +19,9 @@
 * Proceso (promedio = periodo_1 + periodo_2 + periodo_3 + periodo_4)/4) SI (promedio > =6) ENTONCES mostrar ("Tu promedio es ", promedio) SINO mostrar ("Tú promedio es reprobatorio) FINSI
 *  Fin
 
-![image](https://user-images.githubusercontent.com/101481188/160215457-654559c7-f263-401b-b05c-3a05382836fd.png)
+![image](https://user-images.githubusercontent.com/101481188/160220982-98c79eaa-51ee-4e92-a893-67948bbe0121.png)
+
+
 
 
 
