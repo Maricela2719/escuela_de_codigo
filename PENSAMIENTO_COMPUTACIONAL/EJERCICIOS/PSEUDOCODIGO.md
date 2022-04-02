@@ -45,6 +45,12 @@ Convierte los siguientes ejercicios realizado durante el taller a pseudocodigo.
 
 6. Programa que pida 3 números y los muestre en pantalla de menor a mayor.
 
+![image](https://user-images.githubusercontent.com/101481188/161373610-629688b3-23f1-4711-8269-46726880338e.png)
+![image](https://user-images.githubusercontent.com/101481188/161373823-f65f6446-8d44-4744-90e8-ece81a564383.png)
+
+![image](https://user-images.githubusercontent.com/101481188/161373678-6e033ab9-cfd7-443a-8df5-2170f0d54ad4.png)
+
+
 
 
 7. Realizar un algoritmo y diagrama de flujo para un programa que permita ingresar un nombre y una cantidad numérica para que así después el programa escriba este nombre tantas veces como su cantidad ingresada.
