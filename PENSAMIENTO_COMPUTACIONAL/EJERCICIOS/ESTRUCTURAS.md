@@ -68,6 +68,10 @@
 * Asignar (candidato)
 * Proceso (SI(candidato=="A") ENTONCES imprimir("Usted ha votado por el partido rojo")SINO SI(candidato=="B") ENTONCES imprimir("Usted ha votado por el partido verde") SINO SI(candidato=="C") ENTONCES imprimir("Usted ha votado por el partido azul") SINO imprimir("Opción errónea")FINSI FINSI FINSI
 * Fin
+
+![image](https://user-images.githubusercontent.com/101481188/161399302-f1161e60-e4bc-462d-af5e-6ecb3b017fea.png)
+
+
 ### Para un programa que almacene la cadena de caracteres para una contraseña y email, pregunte al usuario por la contraseña y email e imprima por pantalla si la contraseña y el email introducidos por el usuario coincide con los guardadados en las variables.
 * Inicio
 * Declarar(correo,contrasena,correo_ok,contrasena_ok)string
@@ -79,3 +83,6 @@
 * Asignar(contrasena)
 * Proceso (SI(correo == correo_ok && contrasena == contrasena_ok) ENTONCES imprimir("Su correo electrónico y contraseña son correctas") SINO imprimir("Su correo electrónico o contraseña son incorrectos") FINSI)
 * Fin
+
+![image](https://user-images.githubusercontent.com/101481188/161399712-1a73d70a-99c9-4237-b403-51c4a0b31115.png)
+
