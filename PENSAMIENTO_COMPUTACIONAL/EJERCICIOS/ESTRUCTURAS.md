@@ -46,6 +46,10 @@
 * Asignar (numero_3)
 * Proceso (SI((numero_1<numero_2)Y(numero_1<numero_3)ENTONCES SI(numero_2<numero_3)ENTONCES imprimir (numero_1,numero_2,numero_3))FINSI SINO(SI(numero_2<numero_1)Y(numero_2<numero_3)ENTONCES SI(numero_1<numero_3)ENTONCES imprimir(numero_2,numero_1,numero_3)SINO imprimir(numero_2,numero_3,numero_1))FINSI SINO (SI(numero_3<numero_1)Y(numero_3<numero_2)ENTONCES SI(numero_1<numero_2)ENTONCES imprimir(numero_3,numero_1,numero_2)SINO imrimir(numero_3,numero_2,numero_1))FINSI SINO imprimir ("Error, hay números rpetidos")FINSI)FINSI)
 * FIN
+
+![image](https://user-images.githubusercontent.com/101481188/161370625-862a76e7-aa77-4679-ae96-f1a46a9a2388.png)
+
+
 ### De un programa que pida un número del 1 al 12 y diga el nombre del mes correspondiente.
 * Inicio
 * Declarar (mes)int
@@ -53,6 +57,10 @@
 * Asignar (mes)
 * Proceso (EN CASO DE (mes) caso 1:imprimir("Enero") caso 2:imprimir("Febrero") caso 3:imprimir("Marzo") caso 4:imprimir("Abril") caso 5:imprimir("Mayo") caso 6:imprimir("Junio") caso 7:imprimir("Julio") caso 8:imprimir("Agosto") caso 9:imprimir("Septiembre") caso 10:imprimir("Octubre") caso 11:imprimir("Noviembre") caso 12:imprimir("Diciembre") SINO imprimir("El número ingresado no corresponde a un mes")FINCASO)
 * Fin
+
+![image](https://user-images.githubusercontent.com/101481188/161372145-00f14a9c-9861-42bb-837f-ea4388d502a8.png)
+
+
 ### De un programa que permita al usuario elegir un candidato por el cual votar. Las posibilidades son: candidato A por el partido rojo, candidato B por el partido verde, candidato C por el partido azul. Según el candidato elegido (A, B ó C) se le debe imprimir el mensaje “Usted ha votado por el partido [color que corresponda al candidato elegido]”. Si el usuario ingresa una opción que no corresponde a ninguno de los candidatos disponibles, indicar “Opción errónea”.
 * Inicio
 * Declarar (candidato)char
